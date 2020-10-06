@@ -11,5 +11,5 @@ firebase functions:config:set transporter_config.email="email@domain.xx"" transp
 ### Prerequisites
 
 NodeJS
-Firebas tools
+Firebase tools
 
